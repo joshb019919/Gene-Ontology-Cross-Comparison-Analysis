@@ -1,0 +1,140 @@
+{
+  "clustering": {
+    "k": 5,
+    "clusters": [
+      {
+        "points": [
+          "3.6030262658390537,-0.8606754760165877",
+          "9.442128944379109,2.736903741185305"
+        ],
+        "organelles": [
+          "intracellular mem",
+          "anammoxosome"
+        ]
+      },
+      {
+        "points": [
+          "6.204295609751624,-0.938403734671309",
+          "3.314796536292332,-0.9003385747194074"
+        ],
+        "organelles": [
+          "cis-Golgi network",
+          "endoplasmic retic"
+        ]
+      },
+      {
+        "points": [
+          "9.337457099139389,2.6696757665743984",
+          "9.225299786318434,2.6048050260436"
+        ],
+        "organelles": [
+          "endosperm protein",
+          "ER body"
+        ]
+      },
+      {
+        "points": [
+          "9.18641661526306,2.6852727962348726",
+          "9.005278296580784,2.572589463136852"
+        ],
+        "organelles": [
+          "exoneme",
+          "eyespot apparat"
+        ]
+      },
+      {
+        "points": [
+          "3.3854422630888705,-1.258941651030783",
+          "10.53564772468889,2.749440215537313"
+        ],
+        "organelles": [
+          "Golgi apparatus",
+          "intracellular ves"
+        ]
+      }
+    ]
+  },
+  "radius_significance": {
+    "cluster 0": {
+      "radius": 3.6,
+      "significance": "likely to be involved in protein synthesis and transport"
+    },
+    "cluster 1": {
+      "radius": 6.2,
+      "significance": "may play a role in cellular signaling and communication"
+    },
+    "cluster 2": {
+      "radius": 9.4,
+      "significance": "involved in the regulation of gene expression and cell growth"
+    },
+    "cluster 3": {
+      "radius": 9.0,
+      "significance": "likely to be involved in the processing and modification of proteins"
+    },
+    "cluster 4": {
+      "radius": 10.8,
+      "significance": "may play a role in the regulation of cellular metabolism"
+    }
+  },
+  "theta_significance": {
+    "cluster 0": {
+      "theta": -1.0,
+      "significance": "likely to be involved in the regulation of gene expression and cell growth"
+    },
+    "cluster 1": {
+      "theta": 2.7,
+      "significance": "may play a role in the processing and modification of proteins"
+    },
+    "cluster 2": {
+      "theta": 2.6,
+      "significance": "involved in the regulation of cellular metabolism and energy production"
+    },
+    "cluster 3": {
+      "theta": 2.7,
+      "significance": "likely to be involved in the transport and processing of proteins"
+    },
+    "cluster 4": {
+      "theta": 2.8,
+      "significance": "may play a role in the regulation of cell growth and division"
+    }
+  },
+  "combined_significance": {
+    "cluster 0": {
+      "radius": 3.6,
+      "theta": -1.0,
+      "significance": "likely to be involved in protein synthesis and transport"
+    },
+    "cluster 1": {
+      "radius": 9.4,
+      "theta": 2.7,
+      "significance": "involved in the processing and modification of proteins"
+    },
+    "cluster 2": {
+      "radius": 10.8,
+      "theta": 2.8,
+      "significance": "may play a role in the regulation of cellular metabolism"
+    }
+  },
+  "parasite_targets": {
+    "cluster 0": [
+      "intracellular mem",
+      "anammoxosome"
+    ],
+    "cluster 1": [
+      "cis-Golgi network",
+      "endoplasmic retic"
+    ],
+    "cluster 2": [
+      "endosperm protein",
+      "ER body"
+    ],
+    "cluster 3": [
+      "exoneme",
+      "eyespot apparat"
+    ],
+    "cluster 4": [
+      "Golgi apparatus",
+      "intracellular ves"
+    ]
+  }
+}

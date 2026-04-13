@@ -1,0 +1,12 @@
+,intracellular membrane-boun,cis-Golgi network,endoplasmic reticulum,endoplasmic reticulum-Golgi,Golgi apparatus,intracellular vesicle,mitochondrion,nucleus,omegasome,platelet dense tubular netw,vacuole
+intracellular membrane-boun,1.0,0.1213,0.014,0.0845,0.0169,0.0596,0.0123,0.0,0.0152,0.0074,0.0084
+cis-Golgi network,0.1213,1.0,0.0116,0.0793,0.0108,0.0527,0.0057,0.0,0.0274,0.0205,0.0174
+endoplasmic reticulum,0.014,0.0116,1.0,0.0203,0.0259,0.028,0.0272,0.0,0.0202,0.0491,0.0
+endoplasmic reticulum-Golgi,0.0845,0.0793,0.0203,1.0,0.1515,0.2361,0.0531,0.0166,0.0814,0.012,0.0203
+Golgi apparatus,0.0169,0.0108,0.0259,0.1515,1.0,0.16,0.1521,0.0,0.0094,0.0,0.0
+intracellular vesicle,0.0596,0.0527,0.028,0.2361,0.16,1.0,0.2267,0.0172,0.051,0.0434,0.021
+mitochondrion,0.0123,0.0057,0.0272,0.0531,0.1521,0.2267,1.0,0.0,0.0,0.0241,0.0
+nucleus,0.0,0.0,0.0,0.0166,0.0,0.0172,0.0,1.0,0.0,0.0,0.0
+omegasome,0.0152,0.0274,0.0202,0.0814,0.0094,0.051,0.0,0.0,1.0,0.0358,0.0
+platelet dense tubular netw,0.0074,0.0205,0.0491,0.012,0.0,0.0434,0.0241,0.0,0.0358,1.0,0.0
+vacuole,0.0084,0.0174,0.0,0.0203,0.0,0.021,0.0,0.0,0.0,0.0,1.0

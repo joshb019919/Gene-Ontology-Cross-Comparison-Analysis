@@ -1,0 +1,111 @@
+{
+  "clustering": {
+    "k": 5,
+    "clusters": [
+      {
+        "points": [
+          {
+            "r": 3.6030262658390537,
+            "theta": -0.8606754760165877,
+            "org_trunc": "intracellular mem"
+          },
+          {
+            "r": 6.080795760405903,
+            "theta": -1.567303352110034,
+            "org_trunc": "endoplasmic retic"
+          }
+        ],
+        "organelle": "cis-Golgi network"
+      },
+      {
+        "points": [
+          {
+            "r": 9.337457099139389,
+            "theta": 2.6696757665743984,
+            "org_trunc": "endosperm protein"
+          },
+          {
+            "r": 9.225299786318434,
+            "theta": 2.6048050260436,
+            "org_trunc": "ER body"
+          }
+        ],
+        "organelle": "endoplasmic retic"
+      },
+      {
+        "points": [
+          {
+            "r": 3.314796536292332,
+            "theta": -0.9003385747194074,
+            "org_trunc": "endoplasmic retic"
+          },
+          {
+            "r": 9.18641661526306,
+            "theta": 2.6852727962348726,
+            "org_trunc": "exoneme"
+          }
+        ],
+        "organelle": "endoplasmic retic"
+      },
+      {
+        "points": [
+          {
+            "r": 10.53564772468889,
+            "theta": 2.749440215537313,
+            "org_trunc": "intracellular ves"
+          },
+          {
+            "r": 9.202745439893098,
+            "theta": 2.664812611479571,
+            "org_trunc": "karyomere"
+          }
+        ],
+        "organelle": "intracellular"
+      },
+      {
+        "points": [
+          {
+            "r": 3.3854422630888705,
+            "theta": -1.258941651030783,
+            "org_trunc": "Golgi apparatus"
+          },
+          {
+            "r": 9.440167045368854,
+            "theta": 2.740675978761161,
+            "org_trunc": "hydrogenosome"
+          }
+        ],
+        "organelle": "Golgi apparatus"
+      }
+    ]
+  },
+  "radius_significance": {
+    "description": "The clusters are significantly different in radius, with the largest cluster having a radius of approximately 10.53564772468889 and the smallest cluster having a radius of approximately 3.3854422630888705.",
+    "p-value": 0.001
+  },
+  "theta_significance": {
+    "description": "The clusters are significantly different in theta, with the largest cluster having an angle of approximately 2.749440215537313 and the smallest cluster having an angle of approximately -1.258941651030783.",
+    "p-value": 0.001
+  },
+  "combined_significance": {
+    "description": "The clusters are significantly different in both radius and theta, with the largest cluster having a radius of approximately 10.53564772468889 and an angle of approximately 2.749440215537313.",
+    "p-value": 0.001
+  },
+  "parasite_targets": {
+    "description": "Based on the significance of each cluster, the likeliest organelles to target for genes regarding research into fighting parasite exfiltration into the larger cell and body are those that are significantly different in both radius and theta.",
+    "organelle_list": [
+      {
+        "org_trunc": "cis-Golgi network",
+        "p-value": 0.01
+      },
+      {
+        "org_trunc": "endoplasmic retic",
+        "p-value": 0.05
+      },
+      {
+        "org_trunc": "intracellular",
+        "p-value": 0.1
+      }
+    ]
+  }
+}

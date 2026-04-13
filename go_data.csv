@@ -1,0 +1,38 @@
+term,go_id,children,subtree_size
+intracellular membrane-bounded organelle,[GO:0043231],36,1203
+mononeme,[GO:0070074],0,0
+exoneme,[GO:0044311],0,0
+microneme,[GO:0020009],2,2
+ocelloid,[GO:0097693],0,0
+attachment organelle,[GO:0033099],1,1
+TMEM240-body,[GO:0160045],0,0
+karyomere,[GO:0061468],0,0
+eyespot apparatus,[GO:1990413],0,0
+mitochondrial derivative,[GO:0016007],3,3
+fibrous body-membranous organelle,[GO:0160208],0,0
+polaroplast,[GO:0160201],0,0
+migrasome,[GO:0140494],0,0
+platelet dense tubular network,[GO:0031094],2,2
+magnetosome,[GO:0110143],2,2
+ER body,[GO:0010168],0,0
+nucleus,[GO:0005634],21,468
+intracellular vesicle,[GO:0097708],5,276
+omegasome,[GO:1990462],1,2
+nucleomorph,[GO:0033009],0,0
+cis-Golgi network,[GO:0005801],1,4
+subsynaptic reticulum,[GO:0071212],0,0
+plastid,[GO:0009536],19,122
+mitochondrion,[GO:0005739],5,70
+vacuole,[GO:0005773],10,78
+hydrogenosome,[GO:0042566],2,2
+mitosome,[GO:0032047],0,0
+endosperm protein body,[GO:0042735],0,0
+acidocalcisome,[GO:0020022],2,2
+endoplasmic reticulum-Golgi intermediate compartment,[GO:0005793],2,2
+anammoxosome,[GO:0044222],0,0
+pirellulosome,[GO:0044223],0,0
+methane-oxidizing organelle,[GO:0044227],0,0
+microbody,[GO:0042579],4,20
+polyhydroxyalkanoate granule,[GO:0070088],0,0
+endoplasmic reticulum,[GO:0005783],12,100
+Golgi apparatus,[GO:0005794],16,48

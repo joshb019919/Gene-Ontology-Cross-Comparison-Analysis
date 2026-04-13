@@ -1,0 +1,47 @@
+{
+  "clustering": {
+    "k_estimate": "3",
+    "clusters": [
+      {
+        "cluster_id": 1,
+        "points": [
+          {
+            "r": 3.6030262658390537,
+            "theta": -0.8606754760165877,
+            "org_trunc": "intracellular mem"
+          },
+          {
+            "r": 3.314796536292332,
+            "theta": -0.9003385747194074,
+            "org_trunc": "endoplasmic retic"
+          },
+          {
+            "r": 6.080795760405903,
+            "theta": -1.567303352110034,
+            "org_trunc": "endoplasmic retic"
+          },
+          {
+            "r": 3.3854422630888705,
+            "theta": -1.258941651030783,
+            "org_trunc": "Golgi apparatus"
+          },
+          {
+            "r": 3.148026533705722,
+            "theta": -0.2291251183763434,
+            "org_trunc": "mitochondrion"
+          },
+          {
+            "r": 2.5975203134554112,
+            "theta": 0.4289862104213759,
+            "org_trunc": "nucleus"
+          }
+        ],
+        "center": {
+          "r": 3.3,
+          "theta": -0.8
+        }
+      },
+      "cluster_id"
+    ]
+  }
+}
